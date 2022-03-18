@@ -7,7 +7,7 @@
 
 body {
 	font-family: 'League Spartan', sans-serif;
-	color: #202030;
+	color: #2222B0;
 	background-color: #f8f8fc;
 }
 
@@ -36,7 +36,7 @@ body {
 }
 
 .biography-details li::before {
-	color: #FFD4B7;
+	color: #FFDBF0;
 }
 
 .biography-details li, .skill-list li {
